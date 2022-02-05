@@ -19,10 +19,89 @@ Model making and prototyping skills will be taught.
 Requirements
 ------------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| _Discussion_  {{< br >}}  {{< br >}}Artfacts, Images, Papers, Books, Ideas | 10% |
-| _Design We Do in Class_  {{< br >}}  {{< br >}}2002: Dirty Coke Can, Dooring Bikes  {{< br >}}  {{< br >}}2003: Brainstorm Every Two Weeks - Silos of Knowledge and Activity | 10% |
-| _Projects_  {{< br >}}  {{< br >}}2 Liter Soda Bottle Door Stop  {{< br >}}  {{< br >}}Vacuum Form Container  {{< br >}}  {{< br >}}Water Jet Door Stop with MIT or ML Embedded  {{< br >}}  {{< br >}}3D Printed Thing You Can Hold in Your Hand  {{< br >}}  {{< br >}}Electronics and Sensors  {{< br >}}  {{< br >}}Final Project | 60% |
-| _Presentations_  {{< br >}}  {{< br >}}2 Formal Presentations of Book or Paper  {{< br >}}  {{< br >}}1 In-class Project Taken Farther  {{< br >}}  {{< br >}}Project | 10% |
-| _Quizzes_  {{< br >}}  {{< br >}}Human Factors, Materials, Electronics, Sensors, Tool Use | 10%
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+_Discussion_  
+  
+Artfacts, Images, Papers, Books, Ideas
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+_Design We Do in Class_  
+  
+2002: Dirty Coke Can, Dooring Bikes  
+  
+2003: Brainstorm Every Two Weeks - Silos of Knowledge and Activity
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+_Projects_  
+  
+2 Liter Soda Bottle Door Stop  
+  
+Vacuum Form Container  
+  
+Water Jet Door Stop with MIT or ML Embedded  
+  
+3D Printed Thing You Can Hold in Your Hand  
+  
+Electronics and Sensors  
+  
+Final Project
+{{< tdclose >}}
+{{< tdopen >}}
+60%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+_Presentations_  
+  
+2 Formal Presentations of Book or Paper  
+  
+1 In-class Project Taken Farther  
+  
+Project
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+_Quizzes_  
+  
+Human Factors, Materials, Electronics, Sensors, Tool Use
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
